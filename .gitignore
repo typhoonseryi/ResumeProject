@@ -1,0 +1,9 @@
+venv
+.idea
+/01_migrate_db/.env
+/01_migrate_db/db.sqlite
+/02_docker/app/config/.env
+/02_docker/app/static/
+/02_docker/psql.env
+/03_etl/.env
+/03_etl/state_file
